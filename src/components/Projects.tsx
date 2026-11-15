@@ -44,16 +44,15 @@ const projects = [
     featured: false,
   },
   {
-    title: 'Developer Portfolio',
-    description:
-      'A highly animated and premium personal portfolio website crafted using Next.js, Framer Motion, and custom styling.',
-    image:
-      'https://i.ibb.co.com/xKVK0kpb/screencapture-magenta-torte-c7d44f-netlify-app-2026-05-17-20-30-35.png',
-    tags: ['Next.js', 'Framer Motion', 'Tailwind'],
-    category: 'Next.js',
-    live: 'https://magenta-torte-c7d44f.netlify.app/',
-    github: 'https://github.com/ummeshahara1245/portfolio-master.git',
-    featured: false,
+  title: 'Gleam House Cleaning Service',
+  description:
+    'A complete cleaning company website with instant price quotes, a step-by-step booking system, booking tracking, premium service plans, and a staff dashboard.',
+  image: 'https://i.ibb.co.com/d4pyCpp9/screencapture-gleam-house-vercel-app-2026-11-15-15-53-17.png',
+  tags: ['HTML', 'CSS', 'JavaScript', 'Dashboard', 'Booking System'],
+  category: 'HTML & JS',
+  live: 'https://gleam-house.vercel.app/',
+  github: 'https://github.com/ummeshahara1245/Gleam-House.git',
+  featured: false,
   },
   {
     title: 'Travel Agency Platform',
