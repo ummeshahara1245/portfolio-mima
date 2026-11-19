@@ -24,11 +24,11 @@ const projects = [
     title: 'TinyTots & Maternity Care',
     description:
       'An interactive and compassionate frontend web platform focusing on pregnancy tracking, motherhood guidelines, and essential baby care resources.',
-    image: 'https://i.ibb.co.com/Jj8QT9Yk/screencapture-inspiring-stardust-92eed6-netlify-app-2026-02-26-16-13-52.png', // আপনার ওয়েবসাইটের স্ক্রিনশট লিংকটি এখানে বসিয়ে দিন
+    image: 'https://i.ibb.co.com/Jj8QT9Yk/screencapture-inspiring-stardust-92eed6-netlify-app-2026-02-26-16-13-52.png',
     tags: ['React', 'TailwindCSS', 'UI/UX Design', 'Frontend'],
     category: 'React',
-    live: 'https://inspiring-stardust-92eed6.netlify.app/', // আপনার লাইভ ডেমো লিংকটি এখানে দিন
-    github: 'https://github.com/ummaysahara/baby-care.git', // আপনার গিটহাব রিপোজিটরি লিংকটি এখানে দিন
+    live: 'https://inspiring-stardust-92eed6.netlify.app/',
+    github: 'https://github.com/ummaysahara/baby-care.git',
     featured: true,
   },
   {
@@ -67,16 +67,29 @@ const projects = [
     featured: false,
   },
   {
+    title: 'Wanderly Travel',
+    description:
+      'A full-stack travel agency website with secure sign in, tour booking, WhatsApp chat, SEO-optimized pages, and an admin panel to manage tours and bookings.',
+    // Auto screenshot of the live site. For a permanent image, upload your own screenshot to ibb.co and paste that link here.
+    image:
+      'https://i.ibb.co.com/qMwNHNgL/screencapture-wanderly-three-tau-vercel-app-2026-11-19-16-02-09.png',
+    tags: ['Next.js', 'MongoDB', 'TailwindCSS', 'JWT Auth', 'Admin Panel'],
+    category: 'Next.js',
+    live: 'https://wanderly-three-tau.vercel.app/',
+    github: 'https://github.com/ummeshahara1245/wanderly', // paste your Wanderly GitHub repository link here
+    featured: false,
+  },
+  {
     title: 'CareZone Hospital Management',
     description:
       'A comprehensive healthcare & appointment booking platform featuring PostgreSQL database integration, real-time automated Nodemailer notifications, and a responsive frontend layout.',
     image:
-      'https://i.ibb.co.com/Q3wjnhLd/screencapture-localhost-3000-2026-05-20-16-34-52.png', // তোমার কেয়ারজোনের স্ক্রিনশট লিংকটি এখানে বসিয়ে নিও
+      'https://i.ibb.co.com/Q3wjnhLd/screencapture-localhost-3000-2026-05-20-16-34-52.png',
     tags: ['React', 'Express', 'PostgreSQL', 'TailwindCSS', 'Nodemailer'],
     category: 'React',
     live: 'https://carezone-hospital.vercel.app/',
     github: 'https://github.com/ummeshahara1245/carezoneHospital.git',
-    featured: true, // এটিকে ফ্রন্টপেজে হাইলাইট করতে চাইলে true রাখতে পারো
+    featured: true,
   },
 ]
 
